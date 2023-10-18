@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "CompanyName": "Test Company",
+      "NameofEmployee": "John Mari",
+      "Position": "Systems Analyst",
+      "Location": "Marawi",
+      "Id": 1
+    },
+    {
+      "CompanyName": "Test Company",
+      "NameofEmployee": "Albert",
+      "Position": "Tester",
+      "Location": "Panacan",
+      "Id": 2
+    },
+    {
+      "CompanyName": "Test Company",
+      "NameofEmployee": "Cleeve",
+      "Position": "Full-stack",
+      "Location": "Malabog",
+      "Id": 4
+    },
+    {
+      "CompanyName": "Test Company",
+      "NameofEmployee": "Raffy",
+      "Position": "Project Manager",
+      "Location": "R.Castillo",
+      "Id": 5
+    }
+  ]
+}
